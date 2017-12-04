@@ -1,0 +1,12 @@
+algorithm.cpp
+algorithm.h
+glwindow.cpp
+glwindow.h
+imagewindow.cpp
+imagewindow.h
+infoconsole.cpp
+infoconsole.h
+main.cpp
+ui_console.h
+ui_imagewindow.h
+ui_infoconsole.h
